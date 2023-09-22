@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+#debug info
+c++primer/*.dSYM
+
+#buffer info
+c++primer/*.#
